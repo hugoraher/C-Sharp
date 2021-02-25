@@ -8,7 +8,8 @@ namespace HorarioDia
         {
 
             Console.Write("Ingresa la hora del día en formato de 24 horas, por favor: "); //Se solicita al usuario ingresar datos por el teclado 
-            int hora = Convert.ToInt32(Console.ReadLine());
+            int hora = Convert.ToInt32(Console.ReadLine()); //Se declara la variable que trabajará con el método readLine.
+                                                            //El método ReadLine sirve para ingresar datos desde el teclado.
 
             if (hora < 6)
             {             //Inicia la declaración "else if"
