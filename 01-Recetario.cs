@@ -22,10 +22,12 @@ namespace Recetario
     {
         static void Main(string[] args)
         {
-            Console.Write("Ingresa el número de receta: ");
+            Console.Write("Ingresa el número de receta: "); //Impresión de pantalla que solicita ingresar datos al usuario.
 
 
-            int nreceta = Convert.ToInt32(Console.ReadLine()); //Se declara la variable que trabajará con la clase readLine y la declaración Switch.
+            int nreceta = Convert.ToInt32(Console.ReadLine()); //Se declara la variable que trabajará con la clase readLine.
+                                                               //La clase ReadLine sirve para ingresar datos desde el teclado.
+                                                                   
             switch (nreceta)                                  //Se inicia la declaración Switch.
             {
                 case 1:
@@ -102,7 +104,7 @@ namespace Recetario
                 default:            //Mensaje en caso de que la receta que se busca, no existe.
                     Console.WriteLine("La receta que elegiste no existe.");
                     break;
-            }
+            } //fin de la declaración Switch.
         }
     }
 }
