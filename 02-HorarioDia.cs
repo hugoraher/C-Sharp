@@ -6,7 +6,6 @@ namespace HorarioDia
     {
         static void Main(string[] args)
         {
-            //int hora = 24;            //se declara la variable y se le asigna valor
 
             Console.Write("Ingresa la hora del día en formato de 24 horas, por favor: "); //Se solicita al usuario ingresar datos por el teclado 
             int hora = Convert.ToInt32(Console.ReadLine());
