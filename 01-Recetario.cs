@@ -25,8 +25,8 @@ namespace Recetario
             Console.Write("Ingresa el número de receta: "); //Impresión de pantalla que solicita ingresar datos al usuario.
 
 
-            int nreceta = Convert.ToInt32(Console.ReadLine()); //Se declara la variable que trabajará con la clase readLine.
-                                                               //La clase ReadLine sirve para ingresar datos desde el teclado.
+            int nreceta = Convert.ToInt32(Console.ReadLine()); //Se declara la variable que trabajará con el método readLine.
+                                                               //El método ReadLine sirve para ingresar datos desde el teclado.
                                                                    
             switch (nreceta)                                  //Se inicia la declaración Switch.
             {
