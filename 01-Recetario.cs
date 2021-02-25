@@ -7,7 +7,7 @@ namespace Recetario
 
     //Comentarios de documentación
     /**
-    * Nombre del programa: RecetasDeSopa  
+    * Nombre del programa: Recetario
     * ---
     * "El programa es un recetario de cocina que pide datos por medio del teclado al usuario y a su vez, muestra
     * el resultado que se solicita".
@@ -16,8 +16,8 @@ namespace Recetario
     * Fecha de creación: 17/02/2021
     * Hora: 08:00 am
     * @author Víctor Hugo Raher
-    * Fecha última de modificación: 19/02/20
-    * Hora última de modificación:  08:25 am
+    * Fecha última de modificación: 25/02/21
+    * Hora última de modificación:  15:41 am
 */
     {
         static void Main(string[] args)
