@@ -1,4 +1,3 @@
-
 using System;
 
 namespace Recetario
@@ -18,7 +17,7 @@ namespace Recetario
     * @author Víctor Hugo Raher
     * Fecha última de modificación: 25/02/21
     * Hora última de modificación:  15:41 pm
-*/
+    */
     {
         static void Main(string[] args)
         {
