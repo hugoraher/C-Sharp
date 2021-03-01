@@ -15,7 +15,6 @@ namespace ConfirmacionUsuario
         * Fecha de creación: 26/02/2021
         * Hora: 15:03 pm
         * @author Víctor Hugo Raher
-        * @version java 1.8.0_281
         * Fecha última de modificación: 01/03/2021
         * Hora última de modificación:  09:20 am
         * 
