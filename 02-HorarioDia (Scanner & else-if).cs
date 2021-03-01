@@ -2,7 +2,7 @@ using System;
 
 namespace HorarioDia
 {
-    class Program
+    class HorarioDia
     {
  
  //Comentarios de documentación
