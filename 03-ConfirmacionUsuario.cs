@@ -2,7 +2,7 @@
 
 namespace ConfirmacionUsuario
 {
-    class Program
+    class ConfirmacionUsuario
     {
         //Comentarios del programa.
         /**
