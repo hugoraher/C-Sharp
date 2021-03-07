@@ -20,6 +20,7 @@ namespace ConfirmacionUsuario
         * Hora última de modificación:  09:20 am
         * 
         **/
+        
         static void Main(string[] args)
         {
             String usuario, contrasena;                                  //Se declaran las variables.
