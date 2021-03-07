@@ -1,4 +1,5 @@
 using System;
+
 namespace HorarioEscolar
 {
     class HorarioEscolar { 
