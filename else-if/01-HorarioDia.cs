@@ -31,7 +31,6 @@ namespace HorarioDia
             {
                 Console.Write("La hora no existe.");
             }                       //Termina la declaración "else if"
-        
         }
     }
 }
