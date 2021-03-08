@@ -4,6 +4,22 @@ namespace HorarioDia
 {
     class Program
     {
+    
+    //Comentarios de documentación
+    /**
+    * Nombre del programa: Hora del día.
+    * ---
+    * "El programa rectifica la hora del día por medio de un saludo y los datos que ingrese el usuario por medio del teclado".
+    * Para desarrollar éste programa: Se utilizó la clase Scanner y la declaración else if.
+    * ---
+    * Fecha de creación: 07/03/2021
+    * Hora: 10:57 am
+    * @author Víctor Hugo Raher
+    * Fecha última de modificación: 07/03/2021
+    * Hora última de modificación:  11:47 am
+    */   
+        
+        
         static void Main(string[] args)
         {
             //int hora = 24;            //se declara la variable y se le asigna valor
