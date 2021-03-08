@@ -17,7 +17,8 @@ namespace Recetario
     * @author Víctor Hugo Raher
     * Fecha última de modificación: 19/02/20
     * Hora última de modificación:  08:25 am
-*/
+    */
+        
     {
         static void Main(string[] args)
         {
