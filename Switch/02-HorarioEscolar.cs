@@ -6,7 +6,7 @@ namespace HorarioEscolar
 
     //Comentarios de documentación
     /**
-    * Nombre del programa: Horario Escoalr
+    * Nombre del programa: Horario Escolar
     * ---
     * "El programa es un Horario Escolar en el que el alumno, consulta su actividad escolar ingresando su número de matricula".
     * Para desarrollar éste programa: Se utilizó la clase Scanner y la declaración Switch.
