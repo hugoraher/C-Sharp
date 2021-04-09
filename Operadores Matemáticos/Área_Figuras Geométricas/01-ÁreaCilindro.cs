@@ -5,9 +5,9 @@ namespace ÁreaCilindro
     class Program
     {
         /**
-        * Nombre del programa: Área de un Cilindro.
+        * Nombre del programa: Área de un Cilíndro.
         * ---
-        * "El programa Área de un Cilindro, calcula el área de un cilindro mediante los datos que ingresa el usuario.
+        * "El programa Área de un Cilíndro, calcula el área de un cilíndro mediante los datos que ingresa el usuario.
         * Para desarrollar éste programa: Se utilizó el operador " * y + ".
         * ---
         * Fecha de creación: 09/04/2021
@@ -21,7 +21,7 @@ namespace ÁreaCilindro
         {
             double a, h, R;         //Se declaran las variables.
 
-            Console.WriteLine("\t\t\t\t\t\tÁrea de un Cilindro\n");     //Línea impresa del título del programa.
+            Console.WriteLine("\t\t\t\t\t\tÁrea de un Cilíndro\n");     //Línea impresa del título del programa.
 
             Console.Write("Ingresa el número para 'R=Radio': ");        //Primer mensaje de impresión para ingresar datos por teclado.
             R = Convert.ToInt16(Console.ReadLine());                    //Lee los datos que ingresa el usuario.
