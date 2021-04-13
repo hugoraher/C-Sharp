@@ -34,8 +34,6 @@ namespace ÁreaCono
             a = Math.PI * r * (al + g);                                 //Área=Pi * r * (al + g).
 
             Console.WriteLine("El área del Cono es: " + a);             //Línea de impresión para mostrar el resultado.
-
-
         }
     }
 }
