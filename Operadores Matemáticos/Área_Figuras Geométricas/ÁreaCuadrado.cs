@@ -20,7 +20,7 @@ namespace ÁreaCuadrado
         static void Main(string[] args)
         {
             int a, la1, la2;        //Se declaran las variables
-            Console.WriteLine("\t\t\t\t\t\tÁrea de un Cuadrado\n");         //Línea impresa del título del programa.
+            Console.WriteLine("\t\t\t\t\t\tÁrea de un Cuadrado\n");     //Línea impresa del título del programa.
             Console.Write("Ingresa el número para el lado 1: ");        //Primer mensaje de impresión para ingresar datos por teclado.
             la1 = Convert.ToInt16(Console.ReadLine());                  //Lee los datos que ingresan por teclado.
 
