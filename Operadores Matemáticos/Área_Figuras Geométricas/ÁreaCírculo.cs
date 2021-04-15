@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ÁreaCírculo
 {
@@ -10,8 +10,8 @@ namespace ÁreaCírculo
         * "El programa Área de un Círculo, calcula el área de un círculo mediante los datos que ingresa el usuario.
         * Para desarrollar éste programa: Se utilizó la clase Scanner, el operador "*", la función Math.pow 'elevado al cuadrado' y la función Math.Pi.
         * ---
-        * Fecha de creación: 28/03/2021
-        * Hora: 06:45 am
+        * Fecha de creación: 15/04/2021
+        * Hora: 11:35 am
         * @author Víctor Hugo Raher
         * Fecha última de modificación: / /
         * Hora última de modificación: : 
@@ -31,4 +31,3 @@ namespace ÁreaCírculo
         }
     }
 }
-
