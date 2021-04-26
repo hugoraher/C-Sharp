@@ -16,6 +16,7 @@ namespace ÁreaRomboide
         * Fecha última de modificación: / /
         * Hora última de modificación: : 
         */
+        
         static void Main(string[] args)
         {
             Console.WriteLine("\t\t\t\t\t\tÁrea de un Romboide\n");     //Línea impresa del título del programa
